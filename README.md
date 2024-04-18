@@ -1,1 +1,1 @@
-# YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit
+With this project, I gained hands-on experience in working with APIs, database management, Migration from MongoDB to SQL. I built a simple system that allows seamless data harvesting, efficient warehousing, and user-friendly data exploration.
